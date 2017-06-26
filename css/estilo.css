@@ -1,0 +1,15 @@
+body{
+background-color: #ffff00 ;
+background:url(imagenescss/pokemon.png);
+background-repeat: no-repeat; /*para que no se repita*/
+background-size: cover; /*para que cubra todo*/
+
+}
+
+h1{
+	color: #000000;
+}
+
+.navbar {
+    background-color: #fff9c4;
+}
